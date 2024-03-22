@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "videira patrocionio",
+    "slug": "videira1",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "src/assets/icon-vide.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "src/assets/splash-vide.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "src/assets/adaptive-icon-vide.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.phillipe17macedo.videirapatrocinio"
+    },
+    "web": {
+      "favicon": "src/assets/favicon-vide.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "029a1c5c-fab7-40c6-a0df-d9c367cc8816"
+      }
+    }
+  }
+}
