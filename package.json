@@ -1,6 +1,6 @@
 {
-  "name": "videira1",
-  "version": "1.0.0",
+  "name": "Videira Patrocinio",
+  "version": "1.0.2",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
